@@ -1,0 +1,146 @@
+* {
+    background-color: skyblue;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+#one {
+    font-size: 5rem;
+    color: white;
+    padding-left: 40px;
+}
+
+.two {
+    font-size: 2rem;
+    color: white;
+    margin-left: 10px;
+}
+
+.Home {
+    color: white;
+    border: transparent;
+    font-size: 20px;
+    margin-left: 40rem;
+}
+
+.OurShop {
+    color: white;
+    border: transparent;
+    font-size: 20px;
+    margin-left: 2rem;
+}
+
+.ProductDetails {
+    color: white;
+    border: transparent;
+    font-size: 20px;
+    margin-left: 2rem;
+}
+
+.ContactUs {
+    color: white;
+    border: transparent;
+    font-size: 20px;
+    margin-left: 2rem;
+}
+
+.Signin {
+    color: white;
+    border: transparent;
+    font-size: 19px;
+    margin-left: 2rem;
+    background-color: red;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+.WELCOME {
+    color: white;
+    margin-top: 14%;
+    margin-left: 6%;
+    width: fit-content;
+}
+
+.Best {
+    color: white;
+    margin-top: 2%;
+    margin-left: 6%;
+    width: fit-content;
+}
+
+.para {
+    color: white;
+    margin-top: 2%;
+    margin-left: 6%;
+    width: fit-content;
+}
+
+.type {
+    background-color: white;
+    margin-left: 6%;
+    padding: 10px;
+    width: 17%;
+    border-radius: 25px;
+    border: none;
+    margin-top: 5%;
+    width: 30%;
+}
+
+.search {
+    background-color: red;
+    padding: 10px;
+    border-radius: 25px;
+    border: none;
+    color: white;
+    margin-left: -4%;
+}
+
+.picture {
+    width: 40%;
+    height: 70%;
+    display: flex;
+    margin-top: 15%;
+    margin-left: 25%;
+}
+
+.ten {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: -2%;
+}
+
+.gaming {
+    width: 100%;
+}
+
+.percent {
+    padding: 20px;
+    border-radius: 100%;
+    color: white;
+    background-color: red;
+    font-size: large;
+    margin-top: -10%;
+    margin-left: 20%;
+    border: none;
+}
+
+.card-block {
+    position: relative
+}
+
+.price {
+    position: absolute;
+    top: 17%;
+    margin-left: 22%;
+    background-color: rgb(220, 189, 11);
+    font-size: medium;
+    padding: 0.6%;
+    border-radius: 25%;
+}
